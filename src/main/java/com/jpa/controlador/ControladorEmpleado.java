@@ -18,7 +18,11 @@ public class ControladorEmpleado extends HttpServlet {
     public ControladorEmpleado() {
         super();
         // TODO Auto-generated constructor stub
+<<<<<<< HEAD
     }  //fin del constructor....
+=======
+    } //Fin del constructor
+>>>>>>> 7ce5f6c0191623ae3c29b58c3ef2caab412c32d9
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
@@ -26,7 +30,11 @@ public class ControladorEmpleado extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
+<<<<<<< HEAD
 	} //fin del metodo doget...
+=======
+	} //Fin del metodo doGet
+>>>>>>> 7ce5f6c0191623ae3c29b58c3ef2caab412c32d9
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
@@ -34,6 +42,12 @@ public class ControladorEmpleado extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		doGet(request, response);
+<<<<<<< HEAD
 	} //fin del metodo dopost...
 
 } //fin de la clase...
+=======
+	}	//Fin del metodo doPost
+
+}
+>>>>>>> 7ce5f6c0191623ae3c29b58c3ef2caab412c32d9

@@ -2,7 +2,11 @@
 <persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
 	<persistence-unit name="ProyectoMavenJpa2025">
 		<class>com.jpa.modelo.TblEmpleado</class>
+<<<<<<< HEAD
 
+=======
+		
+>>>>>>> 7ce5f6c0191623ae3c29b58c3ef2caab412c32d9
 		
 		<!-- propiedades o configuración de la conexión a BASE DE DATOS -->
 		<properties>
